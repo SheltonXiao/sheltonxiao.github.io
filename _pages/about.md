@@ -21,7 +21,7 @@ I am a Ph.D. candidate in the School of Mechanical Engineering at Tongji Univers
 
 My research interest includes applying data-driven methods to building energy systems' operation and optimal control, as well as utilizing time series characterization and causal modeling to enhance the physical principles underlying these models in the context of building energy data. 
 
-I have published several peer-reviewed papers with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have published several peer-reviewed papers with total <a href='https://scholar.google.com/citations?user=UHHn4yEAAAAJ'>google scholar citations <strong><span id='total_cit'>350+</span></strong></a> <a href='https://scholar.google.com/citations?user=UHHn4yEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations
 - *2019.09 - Now*, D.Phil. in the School of Mechanical Engineering at Tongji University, supervised by Prof. [Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm). GPA 4.93/5.0.
