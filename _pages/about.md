@@ -24,7 +24,7 @@ My research interest includes applying data-driven methods to building energy sy
 I have published several peer-reviewed papers with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations
-- *2019.09 - Now*, D.Phil. in the School of Mechanical Engineering at Tongji University, supervised by Prof. Peng Xu. GPA 4.93/5.0.
+- *2019.09 - Now*, D.Phil. in the School of Mechanical Engineering at Tongji University, supervised by Prof. [Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm). GPA 4.93/5.0.
 - *2015.09 - 2019.06*, B.E. in the School of Mechanical Engineering at Tongji University, majored in Built Environment and Energy Application Engineering. GPA 4.61/5.0.
 
 # 💻 Internships
