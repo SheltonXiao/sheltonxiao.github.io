@@ -51,8 +51,9 @@ I have published several peer-reviewed papers with total <a href='https://schola
 - P. Xu, **T. Xiao**, H. Sha, 'Deep Fake Synthetic Building —— The potential use of fake data synthesis technology in building area', *The 12th International Symposium on Heating, Ventilation and Air Conditioning* (**ISHVAC 2021**), 2021. (**Abstract**)
 
 ## Patents:
-- P. Xu, **T. Xiao**, J. Gu, H. Li, Z. Chen, M. Dai. An automatic obstacle-based graph line exploration algorithm. CN (Patent) 112241575B. filed Sept. 28, 2020, and issued Nov. 11, 2022.
 - P. Xu, **T. Xiao**, Z. Chen, Z. Chen, M. Guo, H. Sha. An automatic diagram forming method for air-conditioning water system schematic based on topological hierarchical abstraction. CN (Patent) 111797485B. filed June 5, 2020, and issued Apr. 7, 2023.
+- P. Xu, **T. Xiao**, J. Gu, H. Li, Z. Chen, M. Dai. An automatic obstacle-based graph line exploration algorithm. CN (Patent) 112241575B. filed Sept. 28, 2020, and issued Nov. 11, 2022.
+- P. Xu, R. He, Z. Chen, Y. Chen, **T. Xiao**, Z. Chen. A path optimization algorithm for water systems in air conditioning systems. CN (Patent) 112241564B. filed Jan. 19, 2021, and issued Sept. 13, 2022.
 
 # 🎖 Honors and Awards
 - *2022*, Outstanding Doctoral Scholarship, Tongji University.
