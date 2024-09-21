@@ -27,13 +27,14 @@ I have published several peer-reviewed papers with total <a href='https://schola
 - *2019.09 - Now*, D.Phil. in the School of Mechanical Engineering at Tongji University, supervised by Prof. [Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm). GPA 4.93/5.0.
 - *2015.09 - 2019.06*, B.E. in the School of Mechanical Engineering at Tongji University, majored in Built Environment and Energy Application Engineering. GPA 4.61/5.0.
 
-# 💻 Internships
+# 💻 Internship
 - *2023.07 - 2023.08*, **Applied Energy Trainee Program**. Research Intern in DC Building Lab (直流建筑实验室) - [Shenzhen Institute of Building Research Co., Ltd.](https://szibr.com/en/), supervised by Dr. Yemao Li, Zhihui Deng, and Dr. Bin Hao. Focus on Demand-side Energy Flexibility Management Optimization Considering Occupant Behavior.
 
 # 📝 Publications 
 
 ## Journals:
 
+- **T. Xiao**, P. Xu, 'Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models', *Energy and Buildings*, 2024. (**Q1,IF=6.6**)[[Link](https://doi.org/10.1016/j.enbuild.2024.114691)]
 - R. He, **T. Xiao**, S. Qiu, J. Gu, M. Wei, P. Xu, 'A rule-based data preprocessing framework for chiller rooms inspired by the analysis of engineering big data', *Energy and Buildings*, 2022. (**Q1,IF=6.7**)[[Link](https://doi.org/10.1016/j.enbuild.2022.112372)]
 - H. Guan, **T. Xiao**, W. Luo, J. Gu, R. He, P. Xu, 'Automatic fault diagnosis algorithm for hot water pipes based on infrared thermal images'. *Building and Environment*, 2022. (**Q1,IF=7.4**) [[Link](https://doi.org/10.1016/j.buildenv.2022.109111)]
 - H. Wang, P. Xu, H. Sha, J. Gu, **T. Xiao**, Y. Yang, D. Zhang, 'BIM-based automated design for HVAC system of office buildings—An experimental study', *Building Simulation*, 2022. (**Q1,IF=5.5**) [[Link](https://doi.org/10.1007/s12273-021-0883-7)]
@@ -44,10 +45,13 @@ I have published several peer-reviewed papers with total <a href='https://schola
 
 ## Conferences:
 
+- J. Gu, W. Wang, **T. Xiao**, P. Xu, R. Jin, Z. Xiong, 'Automatic Design for Subway Station HVAC System Control Flow Chart Based on BIM or 2D Drawings', *Asia Conference of International Building Performance Simulation Association 2024* (**ASim 2024**), 2024.
+- **T. Xiao**, P. Xu, 'Probing data selection risks in data-driven building energy mod-els: An investigation based on causal analysis', *The 18th Conference of the International Society of Indoor Air Quality & Climate* (**IndoorAir 2024**), 2024. (**Abstract**)(**Oral**)
 - **T. Xiao**, P. Xu, S. Qiu, 'How does different collected data influence data-driven chiller model – Analysis of collected data distribution using causal discovery method', *The 18th IBPSA International Conference and Exhibition Building Simulation* (**BS2023**), 2023. (**Oral**)[[Picture](https://sheltonxiao.github.io/images/files/BS2023.jpg)]
 - **T. Xiao**, P. Xu, H. Sha, 'An indoor temperature shift prediction model during demand response period based on operational data transfer learning (基于运行数据迁移学习的需求响应时段室内温度漂移预测模型)', *The 21st China HVAC Simulation Conference*, 2023. (**Oral**, in Chinese)[[Picture](https://sheltonxiao.github.io/images/files/CHVACS2023.jpg)]
 
 ## Workshops, Posters and Others:
+
 - P. Xu, **T. Xiao**, H. Sha, 'Deep Fake Synthetic Building —— The potential use of fake data synthesis technology in building area', *The 12th International Symposium on Heating, Ventilation and Air Conditioning* (**ISHVAC 2021**), 2021. (**Abstract**)
 
 ## Patents:
@@ -60,8 +64,7 @@ I have published several peer-reviewed papers with total <a href='https://schola
 - *2022*, Outstanding Student, Tongji University.
 - *2022*, [Datawhale](https://github.com/datawhalechina) Contributor.
 - *2019*, ***Outstanding Graduate, Shanghai***.
-- *2017*, Second Prize of National Mathematical Contest in Modeling, China Society of Industrial and Applied Mathematics.
-- *2017*, First Prize of Shanghai Mathematical Contest in Modeling, Shanghai Municipal Education Commission.
+- *2017*, Second Prize of National Mathematical Contest in Modeling, China Society of Industrial and Applied Mathematics. First Prize of Shanghai Mathematical Contest in Modeling, Shanghai Municipal Education Commission.
 - *2016*, Oustanding Student, Tongji University.
 - *2016*, First Prize of Tongji Scholarship of Excellence, Tongji University.
 - *2016*, First Prize of 6th “Shangtubei (上图杯)” Advanced Mapping Technology Competition, Shanghai Municipal Education Commission.
@@ -69,3 +72,4 @@ I have published several peer-reviewed papers with total <a href='https://schola
 # 💬 Invited Talks
 
 - *2021*, Building energy consumption prediction in a limited data context, The 20th China HVAC Simulation Conference. [[Picture](https://sheltonxiao.github.io/images/files/CHVACS2021.jpg)]
+- *2024*, Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models, Digital Future 2024.
