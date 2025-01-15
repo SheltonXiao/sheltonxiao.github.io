@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the School of Mechanical Engineering at Tongji University, specializing in Heating, Ventilation and Air Conditioning (HVAC). 
+I am a Ph.D. candidate in the School of Mechanical Engineering at Tongji University, specializing in Heating, Ventilation and Air Conditioning (HVAC). I am currently a visiting Ph.D. candidate at the [Center of the Built Environment (CBE), UCBerkeley](https://cbe.berkeley.edu/).
 
-My research interest includes applying data-driven methods to building energy systems' operation and optimal control, as well as utilizing time series characterization and causal modeling to enhance the physical principles underlying these models in the context of building energy data. 
+My research focuses on energy forecasting, optimal operation and control for HVAC systems in commercial buildings using data science technologies, particularly causal science and causal machine learning to enhance the physical principles underlying these models in the context of building energy data. I am also interested in automating energy management and optimization tasks with large language models, primarily focusing on automating energy efficiency diagnosis using multi-source building data. My experience includes building energy simulation, flexible demand-side control of energy systems considering occupant behavior, and informative and automatic design of air-conditioning systems.
+
+My PhD thesis focuses on enhancing the predictive accuracy of data-driven energy prediction models across various buildings and usage scenarios, thereby increasing the value of using real-world data in building energy modeling. Existing data-driven approaches often struggle with generalizability, particularly when making out-of-distribution predictions, such as intervention predictions and counterfactual inference. These types of predictions are essential for tasks like building benchmarking, optimal control, demand response, and retrofit decisions. This research addresses this challenge by exploring methods to improve generalizability, focusing on energy models built from measured data and considering three key aspects: variables, models, and the data itself.
 
 I have published several peer-reviewed papers with total <a href='https://scholar.google.com/citations?user=UHHn4yEAAAAJ'>google scholar citations <strong><span id='total_cit'>350+</span></strong></a> <a href='https://scholar.google.com/citations?user=UHHn4yEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations
+- *2024.12 - Now*, Visiting Ph.D. student at the [Center of the Built Environment (CBE), UCBerkeley](https://cbe.berkeley.edu/), supervised by Prof. [Stefano Schiavon](https://cbe.berkeley.edu/about-us/people/stefano-schiavon/).
 - *2019.09 - Now*, D.Phil. in the School of Mechanical Engineering at Tongji University, supervised by Prof. [Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm). GPA 4.93/5.0.
 - *2015.09 - 2019.06*, B.E. in the School of Mechanical Engineering at Tongji University, majored in Built Environment and Energy Application Engineering. GPA 4.61/5.0.
 
@@ -72,4 +75,4 @@ I have published several peer-reviewed papers with total <a href='https://schola
 # 💬 Invited Talks
 
 - *2021*, Building energy consumption prediction in a limited data context, The 20th China HVAC Simulation Conference. [[Picture](https://sheltonxiao.github.io/images/files/CHVACS2021.jpg)]
-- *2024*, Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models, Digital Future 2024.
+- *2024*, Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models, Digital Futures 2024.
