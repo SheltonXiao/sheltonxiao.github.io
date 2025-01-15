@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the School of Mechanical Engineering at Tongji University, specializing in Heating, Ventilation and Air Conditioning (HVAC). I am currently a visiting Ph.D. candidate at the Center for the Built Environment (CBE), UCBerkeley.
+I am a Ph.D. candidate in the School of Mechanical Engineering at Tongji University, specializing in Heating, Ventilation and Air Conditioning (HVAC). I am currently a visiting Ph.D. student at the Center for the Built Environment (CBE), UCBerkeley.
 
 My research focuses on energy forecasting, optimal operation and control for HVAC systems in commercial buildings using data science technologies, particularly causal science and causal machine learning to enhance the physical principles underlying these models in the context of building energy data. I am also interested in automating energy management and optimization tasks with large language models, primarily focusing on automating energy efficiency diagnosis using multi-source building data. My experience includes building energy simulation, flexible demand-side control of energy systems considering occupant behavior, and informative and automatic design of air-conditioning systems.
 
