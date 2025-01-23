@@ -50,8 +50,8 @@ I have published several peer-reviewed papers with total <a href='https://schola
 
 - J. Gu, W. Wang, **T. Xiao**, P. Xu, R. Jin, Z. Xiong, 'Automatic Design for Subway Station HVAC System Control Flow Chart Based on BIM or 2D Drawings', *Asia Conference of International Building Performance Simulation Association 2024* (**ASim 2024**), 2024.
 - **T. Xiao**, P. Xu, 'Probing data selection risks in data-driven building energy mod-els: An investigation based on causal analysis', *The 18th Conference of the International Society of Indoor Air Quality & Climate* (**IndoorAir 2024**), 2024. (**Abstract**)(**Oral**)
-- **T. Xiao**, P. Xu, S. Qiu, 'How does different collected data influence data-driven chiller model – Analysis of collected data distribution using causal discovery method', *The 18th IBPSA International Conference and Exhibition Building Simulation* (**BS2023**), 2023. (**Oral**)[[Picture](https://sheltonxiao.github.io/images/files/BS2023.jpg)]
-- **T. Xiao**, P. Xu, H. Sha, 'An indoor temperature shift prediction model during demand response period based on operational data transfer learning (基于运行数据迁移学习的需求响应时段室内温度漂移预测模型)', *The 21st China HVAC Simulation Conference*, 2023. (**Oral**, in Chinese)[[Picture](https://sheltonxiao.github.io/images/files/CHVACS2023.jpg)]
+- **T. Xiao**, P. Xu, S. Qiu, 'How does different collected data influence data-driven chiller model – Analysis of collected data distribution using causal discovery method', *The 18th IBPSA International Conference and Exhibition Building Simulation* (**BS2023**), 2023. (**Oral**)
+- **T. Xiao**, P. Xu, H. Sha, 'An indoor temperature shift prediction model during demand response period based on operational data transfer learning (基于运行数据迁移学习的需求响应时段室内温度漂移预测模型)', *The 21st China HVAC Simulation Conference*, 2023. (**Oral**, in Chinese)
 
 ## Workshops, Posters and Others:
 
@@ -72,7 +72,16 @@ I have published several peer-reviewed papers with total <a href='https://schola
 - *2016*, First Prize of Tongji Scholarship of Excellence, Tongji University.
 - *2016*, First Prize of 6th “Shangtubei (上图杯)” Advanced Mapping Technology Competition, Shanghai Municipal Education Commission.
 
-# 💬 Invited Talks
+# 💬 Presentations and Talks
 
-- *2021*, Building energy consumption prediction in a limited data context, The 20th China HVAC Simulation Conference. [[Picture](https://sheltonxiao.github.io/images/files/CHVACS2021.jpg)]
-- *2024*, Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models, Digital Futures 2024.
+## Invited Talk:
+- *2024*, Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models, Digital Futures 2024. @Shanghai,China
+
+## Seminar:
+- *2024*, Causal analysis of distribution shift in building energy models, WeLL Seminar Spring Student Spotlight Talk. @Berkeley,CA,USA. [[Picture](https://sheltonxiao.github.io/images/files/WeLL2024.jpg)]
+
+## Conference Presentations:
+- *2024*, Probing data selection risks in data-driven building energy mod-els: An investigation based on causal analysis, The 18th Conference of the International Society of Indoor Air Quality & Climate. @Honolulu,HI,USA.
+- *2023*, How does different collected data influence data-driven chiller model – Analysis of collected data distribution using causal discovery method, The 18th IBPSA International Conference and Exhibition Building Simulation. @Shanghai,China. [[Picture](https://sheltonxiao.github.io/images/files/BS2023.jpg)]
+- *2023*, An indoor temperature shift prediction model during demand response period based on operational data transfer learning, The 21st China HVAC Simulation Conference. @Taiyuan,Shanxi,China. [[Picture](https://sheltonxiao.github.io/images/files/CHVACS2023.jpg)]
+- *2021*, Building energy consumption prediction in a limited data context, The 20th China HVAC Simulation Conference. @Xi'an,Shaanxi,China. [[Picture](https://sheltonxiao.github.io/images/files/CHVACS2021.jpg)]
