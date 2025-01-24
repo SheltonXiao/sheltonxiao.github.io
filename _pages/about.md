@@ -78,7 +78,7 @@ I have published several peer-reviewed papers with total <a href='https://schola
 - *2024*, Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models, Digital Futures 2024. @Shanghai,China
 
 ## Seminar:
-- *2024*, Causal analysis of distribution shift in building energy models, WeLL Seminar Spring Student Spotlight Talk. @Berkeley,CA,USA. [[Picture](https://sheltonxiao.github.io/images/files/WeLL2024.jpg)]
+- *2025*, Causal analysis of distribution shift in building energy models, WeLL Seminar Spring Student Spotlight Talk. @Berkeley,CA,USA. [[Picture](https://sheltonxiao.github.io/images/files/WeLL2024.jpg)]
 
 ## Conference Presentations:
 - *2024*, Probing data selection risks in data-driven building energy mod-els: An investigation based on causal analysis, The 18th Conference of the International Society of Indoor Air Quality & Climate. @Honolulu,HI,USA.
