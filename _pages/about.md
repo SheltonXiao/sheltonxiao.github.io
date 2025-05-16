@@ -37,7 +37,7 @@ I have published several peer-reviewed papers with total <a href='https://schola
 
 ## Journals:
 
-- R. Jin, P. Xu, J. Gu, **T. Xiao**, C. Li, H. Wang, 'Review of optimization control methods for HVAC systems in Demand Response (DR): Transition from model-driven to model-free approaches and challenges',*Building and Environment*, 2025. (**Q1,IF=7.1**)[[Link](https://doi.org/10.1016/j.buildenv.2025.113045)]
+- R. Jin, P. Xu, J. Gu, **T. Xiao**, C. Li, H. Wang, 'Review of optimization control methods for HVAC systems in Demand Response (DR): Transition from model-driven to model-free approaches and challenges', *Building and Environment*, 2025. (**Q1,IF=7.1**)[[Link](https://doi.org/10.1016/j.buildenv.2025.113045)]
 - **T. Xiao**, P. Xu, 'Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models', *Energy and Buildings*, 2024. (**Q1,IF=6.6**)[[Link](https://doi.org/10.1016/j.enbuild.2024.114691)]
 - R. He, **T. Xiao**, S. Qiu, J. Gu, M. Wei, P. Xu, 'A rule-based data preprocessing framework for chiller rooms inspired by the analysis of engineering big data', *Energy and Buildings*, 2022. (**Q1,IF=6.7**)[[Link](https://doi.org/10.1016/j.enbuild.2022.112372)]
 - H. Guan, **T. Xiao**, W. Luo, J. Gu, R. He, P. Xu, 'Automatic fault diagnosis algorithm for hot water pipes based on infrared thermal images'. *Building and Environment*, 2022. (**Q1,IF=7.4**) [[Link](https://doi.org/10.1016/j.buildenv.2022.109111)]
