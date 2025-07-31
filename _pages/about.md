@@ -50,12 +50,12 @@ I have published several peer-reviewed papers with total <a href='https://schola
 ## Conferences:
 
 - J. Gu, W. Wang, **T. Xiao**, P. Xu, R. Jin, Z. Xiong, 'Automatic Design for Subway Station HVAC System Control Flow Chart Based on BIM or 2D Drawings', *Asia Conference of International Building Performance Simulation Association 2024* (**ASim 2024**), 2024.
-- **T. Xiao**, P. Xu, 'Probing data selection risks in data-driven building energy mod-els: An investigation based on causal analysis', *The 18th Conference of the International Society of Indoor Air Quality & Climate* (**IndoorAir 2024**), 2024. (**Abstract**)(**Oral**)
 - **T. Xiao**, P. Xu, S. Qiu, 'How does different collected data influence data-driven chiller model – Analysis of collected data distribution using causal discovery method', *The 18th IBPSA International Conference and Exhibition Building Simulation* (**BS2023**), 2023. (**Oral**)
 - **T. Xiao**, P. Xu, H. Sha, 'An indoor temperature shift prediction model during demand response period based on operational data transfer learning (基于运行数据迁移学习的需求响应时段室内温度漂移预测模型)', *The 21st China HVAC Simulation Conference*, 2023. (**Oral**, in Chinese)
 
 ## Workshops, Posters and Others:
 
+- **T. Xiao**, P. Xu, 'Probing data selection risks in data-driven building energy mod-els: An investigation based on causal analysis', *The 18th Conference of the International Society of Indoor Air Quality & Climate* (**IndoorAir 2024**), 2024. (**Abstract**)(**Oral**)
 - P. Xu, **T. Xiao**, H. Sha, 'Deep Fake Synthetic Building —— The potential use of fake data synthesis technology in building area', *The 12th International Symposium on Heating, Ventilation and Air Conditioning* (**ISHVAC 2021**), 2021. (**Abstract**)
 
 ## Patents:
