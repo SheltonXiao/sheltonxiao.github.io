@@ -26,7 +26,7 @@ My PhD thesis focuses on enhancing the predictive accuracy of data-driven energy
 I have published several peer-reviewed papers with total <a href='https://scholar.google.com/citations?user=UHHn4yEAAAAJ'>google scholar citations <strong><span id='total_cit'>350+</span></strong></a> <a href='https://scholar.google.com/citations?user=UHHn4yEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations
-- *2024.12 - Now*, Visiting Ph.D. student at the [Center for the Built Environment (CBE), UCBerkeley](https://cbe.berkeley.edu/), supervised by Prof. [Stefano Schiavon](https://cbe.berkeley.edu/about-us/people/stefano-schiavon/).
+- *2024.12 - Now*, Visiting Ph.D. student at the [Center for the Built Environment (CBE), UCBerkeley](https://cbe.berkeley.edu/), working with Dr. [Carlos Duarte](https://cbe.berkeley.edu/about-us/people/carlos-duarte/) and Dr. [Paul Raftery](https://cbe.berkeley.edu/about-us/people/paul-raftery/), supervised by Prof. [Stefano Schiavon](https://cbe.berkeley.edu/about-us/people/stefano-schiavon/).
 - *2019.09 - Now*, D.Phil. in the School of Mechanical Engineering at Tongji University, supervised by Prof. [Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm). GPA 4.93/5.0.
 - *2015.09 - 2019.06*, B.E. in the School of Mechanical Engineering at Tongji University, majored in Built Environment and Energy Application Engineering. GPA 4.61/5.0.
 
