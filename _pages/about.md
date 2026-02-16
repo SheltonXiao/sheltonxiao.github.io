@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in the School of Mechanical Engineering at Tongji University, specializing in Heating, Ventilation and Air Conditioning (HVAC). I am currently a visiting Ph.D. student at the Center for the Built Environment (CBE), UCBerkeley.
+I am a researcher in the School of Mechanical Engineering at Tongji University, specializing in Heating, Ventilation and Air Conditioning (HVAC). I am a visiting scholar at the Center for the Built Environment (CBE), UCBerkeley.
 
 My research focuses on energy forecasting, optimal operation and control for HVAC systems in commercial buildings using data science technologies, particularly causal science and causal machine learning to enhance the physical principles underlying these models in the context of building energy data. I am also interested in automating energy management and optimization tasks with large language models, primarily focusing on automating energy efficiency diagnosis using multi-source building data. My experience includes building energy simulation, flexible demand-side control of energy systems considering occupant behavior, and informative and automatic design of air-conditioning systems.
 
@@ -26,8 +26,8 @@ My PhD thesis focuses on enhancing the predictive accuracy of data-driven energy
 I have published several peer-reviewed papers with total <a href='https://scholar.google.com/citations?user=UHHn4yEAAAAJ'>google scholar citations <strong><span id='total_cit'>350+</span></strong></a> <a href='https://scholar.google.com/citations?user=UHHn4yEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 # 📖 Educations
-- *2024.12 - Now*, Visiting Ph.D. student at the [Center for the Built Environment (CBE), UCBerkeley](https://cbe.berkeley.edu/), working with Dr. [Carlos Duarte](https://cbe.berkeley.edu/about-us/people/carlos-duarte/) and Dr. [Paul Raftery](https://cbe.berkeley.edu/about-us/people/paul-raftery/), supervised by Prof. [Stefano Schiavon](https://cbe.berkeley.edu/about-us/people/stefano-schiavon/).
-- *2019.09 - Now*, D.Phil. in the School of Mechanical Engineering at Tongji University, supervised by Prof. [Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm). GPA 4.93/5.0.
+- *2024.12 - 2025.12*, Visiting PhD student at the [Center for the Built Environment (CBE), UCBerkeley](https://cbe.berkeley.edu/), working with Dr. [Carlos Duarte](https://cbe.berkeley.edu/about-us/people/carlos-duarte/) and Dr. [Paul Raftery](https://cbe.berkeley.edu/about-us/people/paul-raftery/), supervised by Prof. [Stefano Schiavon](https://cbe.berkeley.edu/about-us/people/stefano-schiavon/).
+- *2019.09 - 2025.12*, D.Phil. in the School of Mechanical Engineering at Tongji University, supervised by Prof. [Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm). GPA 4.93/5.0.
 - *2015.09 - 2019.06*, B.E. in the School of Mechanical Engineering at Tongji University, majored in Built Environment and Energy Application Engineering. GPA 4.61/5.0.
 
 # 💻 Internship
@@ -37,6 +37,7 @@ I have published several peer-reviewed papers with total <a href='https://schola
 
 ## Journals:
 
+- Y. Quan, **T. Xiao**, J. Gu, P. Xu, 'AutoBEE: A hierarchical multi-agent approach for energy and environmental parameter analysis', *Energy and Buildings*, 2025. (**Q1,IF=7.1**) [[Link](https://www.sciencedirect.com/science/article/pii/S0378778825012460)]
 - R. Jin, P. Xu, J. Gu, **T. Xiao**, C. Li, H. Wang, 'Review of optimization control methods for HVAC systems in Demand Response (DR): Transition from model-driven to model-free approaches and challenges', *Building and Environment*, 2025. (**Q1,IF=7.1**)[[Link](https://doi.org/10.1016/j.buildenv.2025.113045)]
 - **T. Xiao**, P. Xu, 'Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models', *Energy and Buildings*, 2024. (**Q1,IF=6.6**)[[Link](https://doi.org/10.1016/j.enbuild.2024.114691)]
 - R. He, **T. Xiao**, S. Qiu, J. Gu, M. Wei, P. Xu, 'A rule-based data preprocessing framework for chiller rooms inspired by the analysis of engineering big data', *Energy and Buildings*, 2022. (**Q1,IF=6.7**)[[Link](https://doi.org/10.1016/j.enbuild.2022.112372)]
@@ -55,6 +56,7 @@ I have published several peer-reviewed papers with total <a href='https://schola
 
 ## Workshops, Posters and Others:
 
+- **T. Xiao**, P. Xu, 'CoolShift: Lightweight modeling of building cooling demand with causal machine learning', *UrbanAI: Harnessing Artificial Intelligence for Smart Cities* (**NeurlPS 2025 Workshop**), 2025.
 - **T. Xiao**, P. Xu, 'Probing data selection risks in data-driven building energy mod-els: An investigation based on causal analysis', *The 18th Conference of the International Society of Indoor Air Quality & Climate* (**IndoorAir 2024**), 2024. (**Abstract**)(**Oral**)
 - P. Xu, **T. Xiao**, H. Sha, 'Deep Fake Synthetic Building —— The potential use of fake data synthesis technology in building area', *The 12th International Symposium on Heating, Ventilation and Air Conditioning* (**ISHVAC 2021**), 2021. (**Abstract**)
 
@@ -75,11 +77,10 @@ I have published several peer-reviewed papers with total <a href='https://schola
 
 # 💬 Presentations and Talks
 
-## Invited Talk:
-- *2024*, Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models, Digital Futures 2024. @Shanghai,China
-
-## Seminar:
+## Invited Talks & Seminars:
+- *2025*, Toward Automated Building Performance Analysis with LLM-Based Agents: From Understanding Data to Reasoning and Action, BuildNext: A Global Seminar for Young Researchers Shaping the Future of the Built Environment. @Syracuse,NY,USA.
 - *2025*, Causal analysis of distribution shift in building energy models, WeLL Seminar Spring Student Spotlight Talk. @Berkeley,CA,USA. [[Picture](https://sheltonxiao.github.io/images/files/WeLL2024.jpg)]
+- *2024*, Exploring automated energy optimization with unstructured building data: A multi-agent based framework leveraging large language models, Digital Futures 2024. @Shanghai,China
 
 ## Conference Presentations:
 - *2024*, Probing data selection risks in data-driven building energy mod-els: An investigation based on causal analysis, The 18th Conference of the International Society of Indoor Air Quality & Climate. @Honolulu,HI,USA.
