@@ -31,6 +31,15 @@ redirect_from:
 .exp-desc a { color: #0284c7; text-decoration: none; font-weight: 500; }
 .exp-desc a:hover { text-decoration: underline; }
 
+/* COMPACT RESUME GRID */
+.resume-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; margin-top: 0; margin-bottom: 1rem; }
+.resume-grid .section-title { margin-top: 2rem; }
+.exp-compact .exp-item { margin-bottom: 1.2rem; }
+.exp-compact .exp-title { font-size: 1.05rem; }
+.exp-compact .exp-desc { font-size: 0.92rem; line-height: 1.5; }
+.exp-compact .exp-date { font-size: 0.88rem; margin-bottom: 0.2rem; }
+@media (max-width: 992px) { .resume-grid { grid-template-columns: 1fr; gap: 0; } }
+
 .pub-list { list-style-type: none; padding-left: 0; font-family: -apple-system, sans-serif; }
 .pub-item { display: flex; gap: 20px; align-items: flex-start; margin-bottom: 1.5rem; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #fff; transition: box-shadow 0.2s ease, transform 0.2s ease; }
 .pub-item:hover { box-shadow: 0 10px 25px -5px rgba(0,0,0,0.05); transform: translateY(-3px); }
@@ -178,33 +187,39 @@ html { scroll-behavior: smooth; }
   </div>
 </div>
 
-<h2 class="section-title" id="education">🎓 Education</h2>
-<ul class="exp-list">
-  <li class="exp-item">
-    <div class="exp-date">2024.12 - 2025.12</div>
-    <div class="exp-title">Visiting PhD Student</div>
-    <div class="exp-desc"><a href="https://cbe.berkeley.edu/">Center for the Built Environment (CBE), UC Berkeley</a>. Working with Dr. Carlos Duarte and Dr. Paul Raftery, supervised by Prof. Stefano Schiavon.</div>
-  </li>
-  <li class="exp-item">
-    <div class="exp-date">2019.09 - 2025.12</div>
-    <div class="exp-title">Ph.D in Mechanical Engineering</div>
-    <div class="exp-desc">School of Mechanical Engineering, Tongji University. Supervised by Prof. <a href="https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm">Peng Xu</a>. GPA 4.93/5.0.</div>
-  </li>
-  <li class="exp-item">
-    <div class="exp-date">2015.09 - 2019.06</div>
-    <div class="exp-title">B.E. in Built Environment and Energy Application Engineering</div>
-    <div class="exp-desc">School of Mechanical Engineering, Tongji University. GPA 4.61/5.0.</div>
-  </li>
-</ul>
+<div class="resume-grid">
+  <div class="resume-col">
+    <h2 class="section-title" id="education">🎓 Education</h2>
+    <ul class="exp-list exp-compact">
+      <li class="exp-item">
+        <div class="exp-date">2019.09 - 2025.12</div>
+        <div class="exp-title">Ph.D. in Mechanical Engineering</div>
+        <div class="exp-desc">Tongji University. GPA 4.93/5.0. Supervised by Prof. <a href="https://a434.tongji.edu.cn/english/GROUP/Team_leader.htm">Peng Xu</a>.</div>
+      </li>
+      <li class="exp-item">
+        <div class="exp-date">2015.09 - 2019.06</div>
+        <div class="exp-title">B.E. in HVAC Engineering</div>
+        <div class="exp-desc">Tongji University. GPA 4.61/5.0.</div>
+      </li>
+    </ul>
+  </div>
 
-<h2 class="section-title" id="experience">💼 Work Experience</h2>
-<ul class="exp-list">
-  <li class="exp-item">
-    <div class="exp-date">2023.07 - 2023.08</div>
-    <div class="exp-title">Research Intern</div>
-    <div class="exp-desc">DC Building Lab, <a href="https://szibr.com/en/">Shenzhen Institute of Building Research Co., Ltd.</a> Supervised by Dr. Yemao Li, Zhihui Deng, and Dr. Bin Hao. Focus on Demand-side Energy Flexibility Management Optimization Considering Occupant Behavior.</div>
-  </li>
-</ul>
+  <div class="resume-col">
+    <h2 class="section-title" id="experience">💼 Work Experience</h2>
+    <ul class="exp-list exp-compact">
+      <li class="exp-item">
+        <div class="exp-date">2024.12 - Now</div>
+        <div class="exp-title">Visiting Scholar</div>
+        <div class="exp-desc"><a href="https://cbe.berkeley.edu/">CBE, UC Berkeley</a>.</div>
+      </li>
+      <li class="exp-item">
+        <div class="exp-date">2023.07 - 2023.08</div>
+        <div class="exp-title">Research Intern (Applied Energy Trainee Program)</div>
+        <div class="exp-desc">DC Building Lab, <a href="http://www.szibr.com/">SZIBR</a>. Developed control strategies combining building flexibility and occupant behavior.</div>
+      </li>
+    </ul>
+  </div>
+</div>
 
 <h2 class="section-title" id="selected-publications">📝 Selected Publications</h2>
 <ul class="pub-list">

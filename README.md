@@ -9,10 +9,7 @@ This repository contains the source code for my personal academic homepage, whic
 - **Responsive Design**: Mobile-friendly layout with optimized typography and sidebar navigation.
 
 ## 🛠️ Maintenance & Development
-To regenerate project visualizations after updating base data files:
-```bash
-python generate_visuals.py
-```
+
 For local debugging with Jekyll:
 ```bash
 bash run_server.sh
