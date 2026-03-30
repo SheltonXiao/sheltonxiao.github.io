@@ -1,0 +1,48 @@
+- name: ChatBot-in-HVAC
+  url: https://github.com/SheltonXiao/ChatBotDSinHVAC
+  description: "A specialized Question-Answering (QA) LLM chatbot tailored for the HVAC domain. Includes entire frontend, backend, and database. This is a personal project developed in 2023."
+  category: Engineering
+  language: Python
+  language_color: "#3572A5"
+  stars: 2
+  forks: 0
+- name: Building-carbon-quota-engine
+  url: https://github.com/SheltonXiao/Building-carbon-quota-engine
+  description: "A robust, rule-based algorithmic engine for computing building energy consumption baselines and carbon emission limits. This is a personal project developed in 2022."
+  category: Engineering
+  language: Python
+  language_color: "#3572A5"
+  stars: 0
+  forks: 0
+- name: Causal-WAIC2022Hackathon
+  url: https://github.com/SheltonXiao/causal-WAIC2022Hackathon
+  description: "My solution (8/~1000) for the 'Causal Learning and Decision Optimization Challenge' of the World Artificial Intelligence Conference (WAIC) 2022 Hackathon."
+  category: Research
+  language: Python
+  language_color: "#3572A5"
+  stars: 0
+  forks: 0
+- name: HVAC-ML
+  url: https://github.com/SheltonXiao/hvacML
+  description: "An expandable machine learning framework practice project created in 2022. Provides a highly extensible, object-oriented architecture to standardize the pipeline of building, tuning, and evaluating any machine-learning-based energy model."
+  category: Engineering
+  language: Python
+  language_color: "#3572A5"
+  stars: 0
+  forks: 0
+- name: Sweetalk-Design-Pattern
+  url: https://github.com/datawhalechina/sweetalk-design-pattern
+  description: "A Datawhale China open-source tutorial. Based on 'Design Patterns' by Michael C. Feathers, this project interprets design principles, design patterns, and provides coding examples."
+  category: Engineering
+  language: Python
+  language_color: "#3572A5"
+  stars: 137
+  forks: 24
+- name: HHW-Brick
+  url: https://github.com/CenterForTheBuiltEnvironment/hhw_brick
+  description: "A Python package for converting heating hot water system data to Brick Schema models with comprehensive validation and portable analytics."
+  category: Engineering
+  language: Python
+  language_color: "#3572A5"
+  stars: 1
+  forks: 0

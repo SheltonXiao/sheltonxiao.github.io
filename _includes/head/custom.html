@@ -1,13 +1,41 @@
-<link rel="apple-touch-icon" sizes="180x180" href="images/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
-<link rel="manifest" href="images/site.webmanifest">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ '/images/favicon-32x32.png' | relative_url }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ '/images/favicon-16x16.png' | relative_url }}">
+<link rel="manifest" href="{{ '/images/site.webmanifest' | relative_url }}">
 
 <meta name="msapplication-TileColor" content="#000000">
-<meta name="msapplication-TileImage" content="images/mstile-144x144.png?v=M44lzPylqQ">
-<meta name="msapplication-config" content="images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="msapplication-TileImage" content="{{ '/images/mstile-144x144.png?v=M44lzPylqQ' | relative_url }}">
+<meta name="msapplication-config" content="{{ '/images/browserconfig.xml?v=M44lzPylqQ' | relative_url }}">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="assets/css/academicons.css"/>
+<link rel="stylesheet" href="{{ '/assets/css/academicons.css' | relative_url }}"/>
+
+<style>
+/* Global Typography */
+body { font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important; color: #334155; }
+/* Masthead (Top Navigation) */
+.masthead { border-bottom: 1px solid #e2e8f0 !important; background-color: #ffffff !important; box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.05); }
+.masthead__menu-item a { font-weight: 600 !important; color: #475569 !important; font-family: "Inter", -apple-system, sans-serif; letter-spacing: -0.01em;}
+.masthead__menu-item a:hover { color: #0284c7 !important; }
+.site-title { font-weight: 800 !important; color: #0f172a !important; font-family: "Inter", -apple-system, sans-serif; letter-spacing: -0.02em; }
+
+/* Sidebar Premium Card Styling */
+.sidebar { margin-top: 2rem; }
+.sidebar .profile_box { background: #ffffff; border: 1px solid #f1f5f9; border-radius: 20px; padding: 35px 15px; box-sizing: border-box; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.02), 0 10px 15px -3px rgba(0,0,0,0.04); display: flex; flex-direction: column; align-items: center; text-align: center; }
+.author__avatar { display: block; margin: 0 auto; width: 100%; }
+.author__avatar img { width: 120px; height: 120px; border-radius: 50% !important; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05) !important; border: 4px solid #ffffff; padding: 0; margin: 0 auto 20px auto; transition: transform 0.3s ease, box-shadow 0.3s ease; object-fit: cover; }
+.author__avatar img:hover { transform: scale(1.05); box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1) !important; }
+.author__name { font-weight: 700 !important; font-size: 1.6rem !important; color: #1e293b !important; margin: 0 0 10px 0; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Segoe UI", Arial, sans-serif; letter-spacing: -0.01em; }
+.author__bio { color: #64748b !important; font-size: 1.05rem !important; line-height: 1.6 !important; margin: 0 0 25px 0; font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Segoe UI", Arial, sans-serif; padding: 0 10px; }
+
+/* Hide text-based social links */
+.author__urls-wrapper { width: 100%; border-top: 1px solid #f1f5f9; padding-top: 20px; margin-top: 5px; }
+.author__urls { display: none !important; }
+
+/* Beautiful Icon-Only Social Links */
+.author__urls_sm { display: flex !important; flex-wrap: wrap; justify-content: center; gap: 14px; width: 100%; }
+.author__urls_sm a { display: flex; align-items: center; justify-content: center; color: #64748b !important; font-size: 1.5rem; transition: all 0.2s ease; text-decoration: none; width: 46px; height: 46px; border-radius: 50%; background: #f8fafc; border: 1px solid #e2e8f0; }
+.author__urls_sm a:hover { color: #ffffff !important; background-color: #0284c7; border-color: #0284c7; transform: translateY(-3px); box-shadow: 0 6px 12px rgba(2, 132, 199, 0.25); }
+</style>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
 <script type="text/x-mathjax-config">

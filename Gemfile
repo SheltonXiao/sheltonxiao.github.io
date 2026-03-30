@@ -16,12 +16,15 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", ">= 0.1.0" if Gem.win_platform? # Disabled due to compile errors on Ruby >= 3.2
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  # gem 'hawkins' # Disabled because it crashes Webrick on Ruby 3.4
 end
+
+# Windows OS needs explicit timezone database
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]

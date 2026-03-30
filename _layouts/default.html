@@ -27,6 +27,58 @@ layout: compress
       </article>
     </div>
 
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <p>
+          &copy; {{ 'now' | date: "%Y" }} Tong Xiao &middot; All rights reserved.
+        </p>
+        <p class="site-footer__sub">
+          Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> &middot;
+          Hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+        </p>
+      </div>
+    </footer>
+
+    <style>
+      /* ===== GLOBAL FOOTER & BOTTOM PADDING ===== */
+      #main { padding-bottom: 0; }
+      .page__inner-wrap { padding-bottom: 3rem; }
+      .site-footer {
+        margin-top: 4rem;
+        border-top: 1px solid #e2e8f0;
+        padding: 2rem 1.5rem 2.5rem;
+        text-align: center;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      .site-footer__inner { max-width: 900px; margin: 0 auto; }
+      .site-footer p {
+        margin: 4px 0;
+        font-size: 0.85rem;
+        color: #94a3b8;
+        line-height: 1.6;
+      }
+      .site-footer__sub { font-size: 0.78rem !important; }
+      .site-footer a { color: #94a3b8; text-decoration: none; }
+      .site-footer a:hover { color: #64748b; text-decoration: underline; }
+
+      /* ===== AVATAR CENTERING (resolution-independent) ===== */
+      div.author__avatar {
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        width: 100% !important;
+        padding: 0 !important;
+      }
+      img.author__avatar {
+        display: block !important;
+        margin-left: auto !important;
+        margin-right: auto !important;
+        aspect-ratio: 1 / 1 !important;
+        object-fit: cover !important;
+        border-radius: 50% !important;
+      }
+    </style>
+
     {% include scripts.html %}
 
   </body>
